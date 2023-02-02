@@ -1,3 +1,5 @@
+<img src="assets/penguim-linux.png" min-width="400px" max-width="380px" width="380px" align="right" alt="Penguim Linux">
+
 <p align="left">
   <h3> Hello there, I'm Davi Lourenço </h3>
   <blockquote>I'm a programmer student</blockquote>
