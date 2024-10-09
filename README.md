@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/lmVJm3U8PwEAAAAC/arf-bark.gif" min-width="400px" max-width="380px" width="380px" align="right" alt="Asuka">
+<img src="https://c.tenor.com/wuyEcsxrvQwAAAAC/tenor.gif" min-width="400px" max-width="400px" width="300px" align="right" alt="Asuka">
 
 
 <p align="left">
