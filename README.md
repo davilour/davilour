@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/wuyEcsxrvQwAAAAC/tenor.gif" min-width="360px" max-width="340px" width="380px" align="right" alt="club penguim">
+<img src="https://c.tenor.com/wuyEcsxrvQwAAAAC/tenor.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="club penguim">
 
 
 <p align="left">
