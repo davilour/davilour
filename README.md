@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  <h3> Hello there, I'm Davi Lourenço </h3>
+  <h1> Hello there, I'm Davi Lourenço </h3>
   <blockquote>I'm software engineer xD</blockquote>
   </br>
     <br>
